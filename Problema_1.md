@@ -41,7 +41,7 @@ El programa debe imprimir **un único carácter**:
 ---
 
   
-- Solucion
+## Solucion
 
 ```python
 
