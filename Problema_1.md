@@ -1,5 +1,13 @@
 # Problema 1: Resultado de un Partido de Baloncesto
 
+En el baloncesto existen tres tipos de jugadas que otorgan puntos:
+
+Un tiro de tres puntos , que vale 3 puntos .
+Un tiro de dos puntos , que vale 2 puntos .
+Un tiro libre , que vale 1 punto .
+Usted acaba de observar un partido de baloncesto entre los equipos Apples y Bananas , y registró el número de jugadas exitosas de cada tipo para ambos equipos.
+
+Su tarea consiste en determinar el resultado del partido : si el equipo Apples ganó , si Bananas ganó , o si el partido terminó empatado .
 
 ---
   
