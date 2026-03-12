@@ -35,6 +35,7 @@ Si (d_1 == 8 o d_1 == 9) y (d_4 == 8 o d_4 == 9) y (d_2 == d_3) Entonces
 
 Sino Entonces
   Escribir 'answer'
+FinSi
 
 ```
 
