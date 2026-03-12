@@ -6,6 +6,23 @@ Calcular el **volumen de un cono circular recto**.
 
 ## Solucion
 
+- Pseudocodigo
+  
+```
+importar matematicas
+
+Leer r 
+Leer h 
+pi = math.pi
+
+volumen = (pi * (r**2) * h) / 3
+
+Escribir(volumen)
+
+```
+
+- Codigo
+  
 ```python
 
 import math
