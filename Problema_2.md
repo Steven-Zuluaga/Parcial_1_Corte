@@ -18,7 +18,8 @@ Por ejemplo, el número **8119** pertenece a un telemercader porque:
 
 Su tarea es **determinar si un número telefónico pertenece a un telemercader** y decidir si **debemos contestar la llamada o ignorarla**.
 
-  
+---
+
 ## Solucion
 
 ```python
