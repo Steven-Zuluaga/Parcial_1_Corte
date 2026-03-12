@@ -26,16 +26,25 @@ Las reglas de acceso son las siguientes:
 El objetivo del programa es **determinar el resultado del intento de acceso al laboratorio**.
 
 ---
-
-## Entrada
-
-
-```
   
-- Código
+## Solucion
 
 ```python
 
+E = int(input('Estudiante activo [1/0]: '))
+R = int(input('Tiene reserva [1/0]: ')) 
+H = int(input('Está en horario [1/0]: ')) 
 
+if E == 0:
+    print('acceso_denegado')
+
+elif R == 0:
+    print('reserva_requerida')
+
+elif H == 0:
+    print('fuera_de_horario')
+
+else:
+    print('acceso_permitido')
 
 ```
