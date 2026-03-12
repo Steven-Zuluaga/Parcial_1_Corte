@@ -22,6 +22,25 @@ Su tarea es **determinar si un número telefónico pertenece a un telemercader**
 
 ## Solucion
 
+- Pseudocodigo
+
+```
+Leer d_1 
+Leer d_2 
+Leer d_3 
+Leer d_4 
+
+Si (d_1 == 8 o d_1 == 9) y (d_4 == 8 o d_4 == 9) y (d_2 == d_3) Entonces
+  Escribir 'ignore'
+
+Sino Entonces
+  Escribir 'answer'
+
+```
+
+
+- Codigo
+
 ```python
 
 d_1 = int(input('primer dígito: ')) 
