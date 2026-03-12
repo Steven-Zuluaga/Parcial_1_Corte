@@ -1,1 +1,17 @@
 
+
+- Pseudocódigo
+  
+```
+
+
+
+```
+  
+- Código
+
+```python
+
+
+
+```
