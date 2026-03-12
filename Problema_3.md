@@ -13,6 +13,19 @@ Por ejemplo:
   
 ## Solucion 
 
+- Pseudocodigo
+  
+```
+Leer palabra 
+
+palabra = palabra.strip()
+
+contar = palabra.count(' ') + 1
+
+Escribir(contar)
+```
+- Codigo
+
 ```python
 
 palabra = str(input())
